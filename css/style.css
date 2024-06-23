@@ -350,36 +350,36 @@ span {
 
 @media (max-width: 1000px) {
 	.text__header {
-		font-size: 11vw;
+		font-size: 9vw;
 		text-align: center;
 		font-weight: 900;
 		margin: 0 0 20px 0;
 	}
 
 	h2 {
-		font-size: 7vw;
+		font-size: 5vw;
 		font-weight: 700;
 		margin-bottom: 20px;
 	}
 
 	p {
 		margin-top: 48px;
-		font-size: 5vw;
+		font-size: 3.5vw;
 		font-weight: 100;
 		margin-bottom: 20px;
 	}
 
 	h3 {
-		font-size: 6vw;
+		font-size: 4vw;
 		font-weight: 900;
 	}
 
 	span {
-		font-size: 5vw;
+		font-size: 3.5vw;
 	}
 
 	.mono {
-		font-size: 5vw;
+		font-size: 3.5vw;
 		margin-bottom: 60px;
 		color: rgb(8, 6, 97);
 	}
@@ -391,7 +391,7 @@ span {
 	}
 
 	.privat {
-		font-size: 5vw;
+		font-size: 3.5vw;
 		margin-bottom: 60px;
 		color: rgb(8, 6, 97);
 	}
